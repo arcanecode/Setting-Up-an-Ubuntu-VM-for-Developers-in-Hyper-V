@@ -12,6 +12,12 @@ I finally decided enough was enough, and set about consolidating all the instruc
 
 Also note, some of the configuration decisions were made on the basis of this being installed into a virtual machine, for example disabling screen blanking.
 
+## Valid On
+
+These instructions were written on Windows 10 Pro, the 21H1 version. Ubuntu 20.04 was used for the virtual machine.
+
+For all of the software, we installed the most current versions as of June 14, 2021, the date this repository was created.
+
 ## Quick Start vs Using an ISO
 
 In the "create VM" instructions, I used the Hyper-V Quick Start method to download and create an Ubuntu 20.04 Hyper-V installation. This has mixed results. On one hand, it makes installation go quickly and you can be assured you aren't making poor choices. On the other hand, it doesn't provide much opportunity for customization. I do address this however in the instructions, and show how to override some of the default choices before you even start your VM.
