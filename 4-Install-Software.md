@@ -143,7 +143,7 @@ Finally, you should go ahead and open VSCode and login to it. If you are using t
 
 ## Optional - Configure Remoting
 
-If you will need to SSH _into_ this virtual machine, or _from_ this VM, then you should proceed to the instructions found in [5-Configure-Remoting-on-Ubuntu](5-Configure-Remoting-on-Ubuntu).
+If you will need to SSH _into_ this virtual machine, or _from_ this VM, then you should proceed to the instructions found in [5-Configure-Remoting-on-Ubuntu.md](5-Configure-Remoting-on-Ubuntu.md).
 
 ---
 

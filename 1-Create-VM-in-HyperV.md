@@ -109,7 +109,7 @@ So anywhere in these instructions you see "reboot", what you should really do is
 
 At this point you are done with post QuickStart creation configuration. Click on OK to close the settings window. You are now returned to the "Virtual machine created successfully" window. I usually close the dialog, then start the VM from the main Hyper-V window.
 
-You can now proceed to the next file, [2-Initial-Ubuntu-Configuration](2-Initial-Ubuntu-Configuration)
+You can now proceed to the next file, [2-Initial-Ubuntu-Configuration.md](2-Initial-Ubuntu-Configuration.md)
 
 ---
 

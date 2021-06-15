@@ -36,13 +36,13 @@ Below are a list of the files in this repository, in the order in which they sho
 
 [1-Create-VM-in-HyperV.md](1-Create-VM-in-HyperV.md)
 
-[2-Initial-Ubuntu-Configuration](2-Initial-Ubuntu-Configuration)
+[2-Initial-Ubuntu-Configuration.md](2-Initial-Ubuntu-Configuration.md)
 
 [3-Additional-Configuration.md](3-Additional-Configuration.md)
 
 [4-Install-Software.md](4-Install-Software.md)
 
-[5-Configure-Remoting-on-Ubuntu](5-Configure-Remoting-on-Ubuntu)
+[5-Configure-Remoting-on-Ubuntu.md](5-Configure-Remoting-on-Ubuntu.md)
 
 There is also a bonus Quick Reference set of instructions. See it for more information on what it contains.
 
