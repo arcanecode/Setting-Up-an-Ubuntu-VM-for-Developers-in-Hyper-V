@@ -52,7 +52,7 @@ There is also a bonus Quick Reference set of instructions. See it for more infor
 
 I will update this repository as needed, primarily when a new releases of Ubuntu or Hyper-V will cause the instructions to no longer be valid.
 
-Additionally they will get updated if I find additional software I feel needs to be added to my base install.
+Additionally, they will get updated if I find additional software I feel needs to be added to my base install.
 
 ---
 
