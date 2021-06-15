@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In step 3 of these instructions, we cover installing GIT and configuring it with your user ID.
+In step 4 of these instructions, [4-Install-Software.md](4-Install-Software.md) we cover installing GIT and configuring it with your user ID.
 
 In order to cache your credentials, you have to have either downloaded a project from GitHub, or created a new VSCode project stored in GIT. Only then can you cache your credentials, so you don't have to login every time you want to push your project to GIT / GitHub.
 
@@ -10,7 +10,7 @@ While the how to was explained in file 3, it is likely you may need to refer bac
 
 # Preliminary - GIT Installation and Initial Configuration
 
-Hopefully you followed the instructions in [3-Additional-Configuration.md](3-Additional-Configuration.md), and installed GIT, then configured it with your name and email address. If not here it is again as a reminder.
+Hopefully you followed the instructions in [4-Install-Software.md](4-Install-Software.md), and installed GIT, then configured it with your name and email address. If not here it is again as a reminder.
 
 First, install GIT.
 
